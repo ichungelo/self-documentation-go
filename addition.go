@@ -22,7 +22,7 @@ this is a test 4
 this is a test 5
 
 */
-package selfdocumentationgo
+package calculate
 
 /*
 # Calculate Struct
